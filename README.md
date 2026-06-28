@@ -33,13 +33,6 @@ Become a Full Stack MERN Developer and contribute to open-source projects.
 - React.js
 - Vite
 
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-
 ### Tools
 - Git
 - GitHub
@@ -62,7 +55,6 @@ Weather application using API integration.
 Search movies using an external API.
 
 ---
-
 
 ## 📫 Connect with Me
 
